@@ -1,0 +1,36 @@
+
+$ git init
+
+$ git status                                                                        
+$ git add angpro3                                                                   
+$ git commit -m "msg"
+
+$ git remote add origin https://github.com
+
+$ git commit -m "msg1"
+
+$ git push -u origin master
+
+
+$ git clone https://github.com
+
+$ git branch xyz
+
+
+$ git checkout xyz                                                                    
+$ git push -u origin xyz                                                              
+$ git diff
+
+$ git merge xyz
+
+$ git merge master
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------
+
+JENKIN
+
+
+java -jar jenkins.war --httpPort=8085
